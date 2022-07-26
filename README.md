@@ -24,6 +24,10 @@ Simple Music Player App is created using java. After installing this app when we
 
 ## APP DOWNLOAD LINK : :point_right: <a href="https://drive.google.com/file/d/1Uve2P9PPDewTUJE70NfiXdheH0O0vl8n/view" download>Click here to download</a>
 
+## SM PLAYER DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=ZbMf74Yta8M">Click here to watch</a>
+
+## ANDROID PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=Jfq38C1hKXs&list=PL0lbDlMJ1h4hiR-xQJTPRijsOF1-0hhAG">Click here to watch</a>
+
 ## Purpose :point_down:
 
 <div align="justified">
